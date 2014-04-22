@@ -5,7 +5,8 @@ A very simple and lightly php api framework!
 we support DataBase: 
 
 	mysql,mssql,sqlite,oracle,sybase,postgresql,cubrid
-	auto create api use php
+
+auto create api use php
 support cache: file,memcache
 
 support platform:win,linux/unix,mac
