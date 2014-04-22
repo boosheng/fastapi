@@ -25,6 +25,6 @@ add api analysis backend
 ###Suggestions
 PHP performance optimization method
 
-1,use hhvm.([hhvm.org](http://hhvm.org))
+1,use hhvm.([hhvm.com](http://hhvm.com))
 
 2,use opache,cache
