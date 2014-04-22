@@ -21,3 +21,10 @@ add nosql support such as mongodb,redis
 add cache support redis
 
 add api analysis backend
+
+###Suggestions
+PHP performance optimization method
+
+1,use hhvm.([hhvm.org](http://hhvm.org))
+
+2,use opache,cache
